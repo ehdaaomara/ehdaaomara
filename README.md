@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Ehdaa omara
-- 👀 I’m interested in mobile application 
+- Mobile application developer in react native framework 
 
 <!---
 ehdaaomara/ehdaaomara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
